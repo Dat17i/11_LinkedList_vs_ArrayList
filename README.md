@@ -1,2 +1,2 @@
-# 11_LinkedList_vs_ArrayList
+# LinkedList vs ArrayList
 Code examples from teachings
