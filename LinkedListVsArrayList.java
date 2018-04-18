@@ -11,7 +11,7 @@ public class LinkedListVsArrayList
 	public static void main(String[] args) throws FileNotFoundException
 	{
 		List<String> txt = new LinkedList<String>();
-		Scanner scan = new Scanner(new File("/Users/clbo/Google Drive/KEA_Macbook/Eclipse/SWC2/13_Java_Collections_Framework/src/lecture/mobydick.txt"));
+		Scanner scan = new Scanner(new File("mobydick.txt"));
 		addToList(scan, txt);
 
 		System.out.println("List is full!");
